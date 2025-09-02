@@ -5,12 +5,12 @@
     "artist": "Shield Generator 7",
     "cover": "https://i.imgur.com/s5Qm9wE.jpg",
     "chapters": {
-        "0": {
+        "1": {
             "groups": {
-                "Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+                "Daryll's Collection": "/proxy/api/imgur/chapter/new-berserk-a0-r9EWDHk"
             },
-            "last_updated": 1624606143,
-            "title": "Intro",
+            "last_updated": 1638969011,
+            "title": "The Black Swordsman",
             "volume": "1"
         }
     }
